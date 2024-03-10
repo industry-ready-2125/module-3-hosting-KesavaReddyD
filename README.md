@@ -1,3 +1,7 @@
+# Static Spotify Clone
+- this clone is made using html and css and made three pages - home, search, login of spotify website.
+here is the deployed website [spotify](https://industry-ready-2125.github.io/module-3-hosting-KesavaReddyD/)
+
 # Host your static webpages using Github Pages.
 
 ## Steps 
